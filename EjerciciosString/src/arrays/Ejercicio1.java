@@ -14,4 +14,7 @@ public class Ejercicio1 {
             System.out.println("El numero de la posicion "+i+" es "+num[i]);
         }
     }
+
 }
+
+
