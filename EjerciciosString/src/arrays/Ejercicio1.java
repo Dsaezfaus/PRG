@@ -10,7 +10,7 @@ public class Ejercicio1 {
         Random rn=new Random();
         int[] num= new int[10];
         for(int i=0;i<num.length;i++){
-            num[i]=rn.nextInt(500);
+            num[i]=rn.nextInt(100);
             System.out.println("El numero de la posicion "+i+" es "+num[i]);
         }
     }
